@@ -143,5 +143,5 @@ const matrix = [
 ];
 
 function greatestProduct(matrix) {
-  return matrix [0][0];
+  return Math.pow(matrix[0][0], 4);
 }
